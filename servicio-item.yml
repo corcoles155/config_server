@@ -1,4 +1,4 @@
 server:
   port: 8085
 configuracion:
-  texto: Configurando entorno DE
+  texto: Configurando entorno por defecto
